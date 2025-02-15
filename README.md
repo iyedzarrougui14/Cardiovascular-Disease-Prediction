@@ -64,7 +64,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Cardiovascular-Disease-Prediction.git
+   git clone https://github.com/iyedzarrougui14/Cardiovascular-Disease-Prediction
    ```
 2. Navigate to the project directory:
    ```bash
