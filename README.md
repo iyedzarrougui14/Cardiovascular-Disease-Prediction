@@ -107,17 +107,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## Acknowledgments
 - Dataset: [Cardiovascular Disease Dataset](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset)
 - Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
-
----
-
-Feel free to reach out if you have any questions or suggestions!
-```
-
-### Key Sections:
-1. **Project Overview**: A brief description of the project and its goals.
-2. **Dataset**: Information about the dataset and its features.
-3. **Requirements**: Lists the Python libraries needed to run the project.
-4. **Installation**: Steps to clone the repository and install dependencies.
-5. **Usage**: Instructions on how to run the Jupyter Notebook.
-6. **Results**: Summary of model performance.
-7. **Contributing**: Guidelines for contributing to the project.
